@@ -1,0 +1,26 @@
+{
+  "name": "com.sbaier.unityscenemanagement",
+  "version": "1.0.0",
+  "displayName": "Unity Scene Management",
+  "description": "Implements simple scene management with loading and unloading multiple scenes in a row and showing a loading screen.",
+  "unity": "2022.3",
+  "unityRelease": "",
+  "documentationUrl": "https://github.com/BlackLambert/unity-scene-management",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+    "nuget.moq": "1.0.0",
+    "com.sbaier.unitydi": "https://github.com/BlackLambert/unity-di-package.git#v1.2.19"
+ },
+ "keywords": [
+    "scene management",
+    "scene loading",
+    "scene unloading",
+    "loading screen"
+  ],
+  "author": {
+    "name": "Sebastian Baier",
+    "email": "",
+    "url": ""
+  }
+}
